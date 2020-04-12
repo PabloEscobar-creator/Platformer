@@ -1,0 +1,6 @@
+G:\001_Programy\Godot_v3.2.1-stable_mono_win64\platformerCopy\Platformer\.mono\temp\bin\Tools\Platformer.dll
+G:\001_Programy\Godot_v3.2.1-stable_mono_win64\platformerCopy\Platformer\.mono\temp\bin\Tools\Platformer.pdb
+G:\001_Programy\Godot_v3.2.1-stable_mono_win64\platformerCopy\Platformer\.mono\temp\obj\Tools\Platformer.csprojAssemblyReference.cache
+G:\001_Programy\Godot_v3.2.1-stable_mono_win64\platformerCopy\Platformer\.mono\temp\obj\Tools\Platformer.csproj.CoreCompileInputs.cache
+G:\001_Programy\Godot_v3.2.1-stable_mono_win64\platformerCopy\Platformer\.mono\temp\obj\Tools\Platformer.dll
+G:\001_Programy\Godot_v3.2.1-stable_mono_win64\platformerCopy\Platformer\.mono\temp\obj\Tools\Platformer.pdb
