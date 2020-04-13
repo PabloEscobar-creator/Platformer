@@ -3,9 +3,9 @@ using System;
 
 public class Actor : KinematicBody2D
 {
-     Vector2 velocity;
+     public Vector2 velocity = new Vector2();
      [Export]
-     public Vector2 speed = new Vector2(300, 1000);
+     public float speed = 200;
          
      [Export] 
      public float gravity = 3000;
