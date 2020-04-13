@@ -13,7 +13,7 @@ public class NewGameButton : Button
         
     }
     public void OnNewGameButtonPressed() {
-        GetTree().ChangeScene("res://src/Actors/Player.tscn");
+        GetTree().ChangeScene("res://src/Levels/TemplateLevel.tscn");
     }
 
 //  // Called every frame. 'delta' is the elapsed time since the previous frame.
